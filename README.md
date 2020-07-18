@@ -1,5 +1,7 @@
 <img src="./screenshot/icon.png">
 
+# 原作者
+> fork from [feilong](https://github.com/feilongfl/Cimoc)
 # 应用简介
 
 Android 平台在线漫画阅读器  
