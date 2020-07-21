@@ -38,27 +38,27 @@
                         android:textColor="?attr/colorPrimary"
                         android:textSize="14sp" />
 
-                    <com.hiroshi.cimoc.ui.widget.preference.CheckBoxPreference
+                    <com.mrliu.cimoc.ui.widget.preference.CheckBoxPreference
                         android:id="@+id/backup_save_comic_auto"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         app:summary="@string/backup_save_comic_auto_summary"
                         app:title="@string/backup_save_comic_auto" />
 
-                    <com.hiroshi.cimoc.ui.widget.Option
+                    <com.mrliu.cimoc.ui.widget.Option
                         android:id="@+id/backup_save_comic"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         app:summary="@string/backup_save_comic_summary"
                         app:title="@string/backup_save_comic" />
 
-                    <com.hiroshi.cimoc.ui.widget.Option
+                    <com.mrliu.cimoc.ui.widget.Option
                         android:id="@+id/backup_save_tag"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         app:title="@string/backup_save_tag"
                         app:summary="@string/backup_save_tag_summary"/>
-                    <com.hiroshi.cimoc.ui.widget.Option
+                    <com.mrliu.cimoc.ui.widget.Option
                         android:id="@+id/backup_save_settings"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -82,20 +82,20 @@
                         android:textColor="?attr/colorPrimary"
                         android:textSize="14sp" />
 
-                    <com.hiroshi.cimoc.ui.widget.Option
+                    <com.mrliu.cimoc.ui.widget.Option
                         android:id="@+id/backup_restore_comic"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         app:summary="@string/backup_restore_comic_summary"
                         app:title="@string/backup_restore_comic" />
 
-                    <com.hiroshi.cimoc.ui.widget.Option
+                    <com.mrliu.cimoc.ui.widget.Option
                         android:id="@+id/backup_restore_tag"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         app:title="@string/backup_restore_tag"
                         app:summary="@string/backup_restore_tag_summary"/>
-                    <com.hiroshi.cimoc.ui.widget.Option
+                    <com.mrliu.cimoc.ui.widget.Option
                         android:id="@+id/backup_restore_settings"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
